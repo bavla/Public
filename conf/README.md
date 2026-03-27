@@ -1,8 +1,10 @@
 # Conferences and meetings
 See also [Bernoulli society meetings](https://bernoullisociety.org/meetings)
 
-## 2026
 
+
+## 2026
+* [ECDA 2026](https://www.hochschule-stralsund.de/host/fakultaeten/wirtschaft/veranstaltungen/ecda2026/) European Conference on Data Analysis. 9.-11. September 2026, Stralsund University; deadline April 15th, 2026
 * [COMPSTAT 2026](https://www.cmstatistics.org/CFECMStatistics2025/announcements.php) 27th International Conference on Computational Statistics, Athens, Greece,   25-28 August 2026
 * [EMS 2026](https://www.bernoullisociety.org/meetings) 35th European Meeting of Statisticians (EMS), Lugano, Switzerland, August 24-28 2026
 * [EUSN 2026](https://liu.se/en/event/eusn-2026) ,  Norrkoping, Sweden, 11-15 August 2026; 1 Dec 2025 – Submission deadline for workshop and session proposals; 1 Mar 2026 – Abstract submission deadline
@@ -11,6 +13,7 @@ See also [Bernoulli society meetings](https://bernoullisociety.org/meetings)
 * [INSNA Sunbelt 2026](https://www.insna.org/events/sunbelt-2026---daytona-beach) , Hilton Daytona Beach Oceanfront Resort USA, Monday, June 22, 2026 to Sunday, June 28, 2026; 
 * [NetSci 2026](https://www.netsci2026.com/) , Boston, MA, USA, June 1-5, 2026; Dec 19 - Abstract submission deadline 
 * [ISI Regional Statistics Conference 2026](https://www.isi-next.org/conferences/isi-rsc-malta-2026/) , University of Malta, 03 June 2026 - 05 June 2026; Abstract Submission opens 15 December 2026 closes 15 January 2026; CPS Abstract Submission opens 1 September 2025 closes 15 January 2026
+* [UYİK 2026](https://www.uyik.org/) 7th International Congress on Applied Statistics, 11-13 May 2026 Istanbul / Turkey. Abstract Submission Deadline May 1, 2026
 * [COMPLENET 2026](https://complenet.weeblysite.com/) - 17th International Conference on Complex Networks, Zaragoza (Spain), May 4-8 2026; Abstract & papers submission deadline: November 15, 2025 
   
 ## 2025
